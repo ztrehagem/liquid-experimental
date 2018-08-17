@@ -4,7 +4,7 @@
   "description": "",
   "main": "liquid.js",
   "scripts": {
-    "liquid": "node liquid"
+    "start": "node liquid"
   },
   "author": "",
   "license": "ISC",
