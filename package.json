@@ -1,0 +1,16 @@
+{
+  "name": "liquid-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liquid.js",
+  "scripts": {
+    "liquid": "node liquid",
+    "liquid-server": "node liquid/server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "node-uuid": "^1.4.7"
+  }
+}

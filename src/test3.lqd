@@ -1,0 +1,1 @@
+(and (future (and (future (and true true)) (future (and false true)))) (future true))
