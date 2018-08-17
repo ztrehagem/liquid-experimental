@@ -1,11 +1,10 @@
 {
-  "name": "liquid-js",
+  "name": "liquid-experimental",
   "version": "1.0.0",
   "description": "",
   "main": "liquid.js",
   "scripts": {
-    "liquid": "node liquid",
-    "liquid-server": "node liquid/server"
+    "liquid": "node liquid"
   },
   "author": "",
   "license": "ISC",
